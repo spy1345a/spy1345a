@@ -15,7 +15,7 @@
 
 ```yaml
 name:   AJ
-os:     CachyOS (Arch Linux) + KDE Plasma 6
+os:     CachyOS (Arch Linux btw) + KDE Plasma 6
 editor: VS Code
 shell:  fish
 ```
