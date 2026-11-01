@@ -22,7 +22,7 @@ shell:  fish
 
 - 🔭 Currently building a **custom Vulkan compute engine** for local LLM inference
 - 🛠️ Self-hosted my entire stack on **Oracle Cloud VPS** — CI/CD, ERP, file storage, and more
-- 📄 Published a research paper on data-parallel expression compilation with Vulkan compute *(releasing soon)*
+- 📄 Published a research paper on data-parallel expression compilation with Vulkan compute *(releasing November 2026)*
 - 📖 Sci-fi writer in my spare time
 - 🔧 Hands-on with electrical, electronics, plumbing, PC repair, and handmade PCBs
 
@@ -71,7 +71,8 @@ shell:  fish
 ### 📄 [toyc](https://github.com/spy1345a/toyc-repo) — *Data-Parallel Expression Compiler*
 > A small expression compiler that flattens ASTs into linear register instructions and dispatches them as Vulkan compute workloads — evaluating thousands of variable bindings in parallel with a single precompiled SPIR-V shader. Dual CPU (stack bytecode) and GPU (Vulkan) backends with identical semantics.
 >
-> **Paper:** *toyc: Data-Parallel Arithmetic Evaluation on Vulkan Compute for Expression Compilation* — releasing soon
+> **Paper:** *toyc: Data-Parallel Arithmetic Evaluation on Vulkan Compute for Expression Compilation*
+> [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23853006-blue?style=flat-square)](https://doi.org/10.5281/zenodo.23853006) [![GitHub](https://img.shields.io/badge/GitHub-spy1345a%2Ftoyc--repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/spy1345a/toyc-repo)
 
 ### 🖥️ Self-Hosted Stack @ spy1345a.duckdns.org
 > Personal infrastructure on Oracle Cloud VPS: Gitea CI/CD, Nginx Proxy Manager, WireGuard VPN, SFTPGo, and Dolibarr ERP — all containerized with Docker.
