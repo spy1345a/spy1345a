@@ -2,7 +2,7 @@
 
 # Hey, I'm AJ 👋
 
-**Self-taught technical generalist** — infrastructure, embedded systems, graphics programming, and a bit of everything else.
+**Self-taught technical generalist & independent researcher** — infrastructure, embedded systems, graphics programming, and a bit of everything else.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-spy1345a.github.io-0ea5e9?style=for-the-badge)](https://spy1345a.github.io)
 [![Email](https://img.shields.io/badge/Email-ajeshmb24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github+ajeshmb24@gmail.com)
@@ -22,7 +22,7 @@ shell:  fish
 
 - 🔭 Currently building a **custom Vulkan compute engine** for local LLM inference
 - 🛠️ Self-hosted my entire stack on **Oracle Cloud VPS** — CI/CD, ERP, file storage, and more
-- 📄 Published a research paper on data-parallel expression compilation with Vulkan compute *(releasing November 2026)*
+- 📄 Published a research paper on data-parallel expression compilation with Vulkan compute *(November 2026)*
 - 📖 Sci-fi writer in my spare time
 - 🔧 Hands-on with electrical, electronics, plumbing, PC repair, and handmade PCBs
 
